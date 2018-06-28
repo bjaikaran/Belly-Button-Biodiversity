@@ -1,0 +1,11 @@
+{
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.mypyEnabled": false
+}
